@@ -1,0 +1,7 @@
+.Ds_Store
+*.txt
+*.wav
+*.png
+Encryption_key.txt
+__pycache__/
+*.pyc
