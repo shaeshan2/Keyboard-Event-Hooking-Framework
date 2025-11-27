@@ -6,6 +6,7 @@
 2. Go to privacy and security
 3. Go to Accessibility --> Enable it for the code editor you are using
 4. Go to Accessibility --> Input Monitoring --> Enable for code editor (it will restart app)
+5. Go to Accessibility --> Screen & System Audio Recording --> Enable for code editor
 
 
 **HOW TO RUN CODE**
